@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Meet-Modi-27
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- meetmodi2705@gmail.com
 
 <!---
