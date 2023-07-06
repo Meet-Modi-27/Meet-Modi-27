@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Meet-Modi-27
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m confident enough to help someone in Python.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning Java.
+- 🌱 I have learned C,C++,Python,MySQL.
 - 📫 How to reach me :- meetmodi2705@gmail.com
 
 <!---
