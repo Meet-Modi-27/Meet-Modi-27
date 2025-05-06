@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin MVVM**
 
-- 👯 I’m looking to collaborate on **App Developers**
+- 👯 I’m looking to collaborate with **App Developers**
 
 - 💬 Ask me about **Native Android Development**
 
